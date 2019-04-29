@@ -1,0 +1,15 @@
+#cloud-configs
+package-update: true
+packages:r: 'notsew:notsew'ort, hostname, () => {
+    -   build essentialssew/server.js
+    -   curlent:
+runc-   fileconst http = require('http');
+    -   git
+    -   nodeconst hostname = '0.0.0.0';
+            const port = 8080;
+
+            const server = http.createServer((req, res) => {
+                res.statusCode = 200;
+runcmd:         res.setHeader('Content-Type', 'text/plain');
+    -   cd '/homres.end('Hello World\n');
+    -   node index.html
