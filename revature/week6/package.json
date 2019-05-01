@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node /home/site/repository/week6/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
