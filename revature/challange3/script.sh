@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-file="revature/challenges/week3/entry.txt"
+file="/home/notsew/revature/challange3/script.sh"
 
 while read -r line
 do
